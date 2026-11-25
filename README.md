@@ -1,6 +1,6 @@
 # FakeNewsUMB reproduction
 
-This folder contains a PyTorch/Transformers implementation adapted from the linked UMB repository and the attached paper.
+
 
 Implemented components:
 
